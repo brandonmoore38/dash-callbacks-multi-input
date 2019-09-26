@@ -9,7 +9,7 @@ from dash.dependencies import Input, Output, State
 myheading1='Who wore it best?!'
 tabtitle = 'Power Pose!'
 list_of_colors=['red', 'green', 'blue']
-list_of_numbers=['PowerRangers', 'Voltron', 'PowerpuffGirls']
+list_of_numbers=['one', 'two', 'three']
 sourceurl = 'https://dash.plot.ly/getting-started-part-2'
 githublink = 'https://github.com/brandonmoore38/dash-callbacks-multi-input'
 
