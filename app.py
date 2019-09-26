@@ -6,7 +6,7 @@ from dash.dependencies import Input, Output, State
 
 ########### Define your variables ######
 
-myheading1='Who wore it best?!''
+myheading1='Who wore it best?!'
 tabtitle = 'Power Pose!'
 list_of_colors=['red', 'green', 'blue']
 list_of_numbers=['PowerRangers', 'Voltron', 'PowerpuffGirls']
